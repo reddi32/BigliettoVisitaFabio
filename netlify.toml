@@ -1,5 +1,5 @@
 [build]
-  publish = "dist/biglietto-visita-fabio"
+  publish = "dist/biglietto-visita-fabio/browser"
   command = "ng build --configuration production"
 
 [[redirects]]
